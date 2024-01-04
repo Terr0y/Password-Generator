@@ -48,6 +48,9 @@ The generated password will be displayed in the text area labeled "Your Secure P
 This screenshot provides a visual overview of the application's user interface.
 
 
+## Deployed Application URL
+
+
 
 ## License
 
