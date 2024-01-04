@@ -50,6 +50,7 @@ This screenshot provides a visual overview of the application's user interface.
 
 ## Deployed Application URL
 
+https://terr0y.github.io/Password-Generator/
 
 
 ## License
